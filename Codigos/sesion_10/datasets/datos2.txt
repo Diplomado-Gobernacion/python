@@ -1,0 +1,4 @@
+Lista de productos y precios Euros
+ref_4 6.5
+ref_5 5
+ref_6 3
